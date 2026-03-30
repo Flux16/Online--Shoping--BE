@@ -9,3 +9,8 @@ public class Main {
 }
 
 
+git init
+git add .
+git commit -m "Java_online_shop_tsvetkov_vlad_v2"
+
+
